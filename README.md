@@ -2,7 +2,7 @@ Underhanded Crypto Contest 2014/2015 entries, *with minor corrections.*
 
 Winning Entries:
 
-* JohnMeacham
+* [JohnMeacham](JohnMeacham)
 * GaetanLeurent
 
 
