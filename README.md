@@ -1,14 +1,19 @@
-Underhanded Crypto Contest 2014/2015 entries, WITH MINOR CORRECTIONS.
+Underhanded Crypto Contest 2014/2015 entries, *with minor corrections.* 
 
 Winning Entries:
+
 * JohnMeacham
 * GaetanLeurent
 
+
 Made it to Round 3:
+
 * RyanCastellucci
 * SolarDesigner
 
+
 Made it to Round 2:
+
 * AleksanderEssex
 * AlfonsoDeGregorio
 * Anonymous
@@ -19,10 +24,13 @@ Made it to Round 2:
 * Rogdham
 * SimonNicolussi
 
+
 Remainder of Submissions (Rejected in Round 1):
+
 * DanielFranke
 * RonMordechai
 * ScottArcizewski
+
 
 The contest was organized as follows:
 
@@ -30,6 +38,7 @@ Round 1
 -------
 Judges gave a simple yes/no for each submission. Submissions with majority
 (strictly greater than four) yes votes moved on to Round 2.
+
 
 Round 2
 -------
@@ -64,6 +73,7 @@ The average scores of all submissions were
 * DrGavenkort/2 20.00 (missing 20)
 * Rogdham 18.68 (missing 1)
 * JacobThompson 16.93 (missing 1)
+
 
 Round 3
 -------
